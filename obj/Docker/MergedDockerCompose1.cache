@@ -1,0 +1,12 @@
+services:
+  rancherdesktopdemo:
+    build:
+      context: C:\Users\Sinan\source\repos\RancherDesktopDemo
+      dockerfile: RancherDesktopDemo/Dockerfile
+    container_name: rancherdesktopdemo
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: rancherdesktopdemo
+    ports:
+    - target: 80
+version: '3.4'

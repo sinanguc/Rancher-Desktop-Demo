@@ -1,0 +1,11 @@
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\RancherDesktopDemo.exe
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\appsettings.Development.json
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\appsettings.json
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\RancherDesktopDemo.dll
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\RancherDesktopDemo.deps.json
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\RancherDesktopDemo.runtimeconfig.json
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\RancherDesktopDemo.pdb
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\Microsoft.OpenApi.dll
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sinan\source\repos\RancherDesktopDemo\RancherDesktopDemo\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

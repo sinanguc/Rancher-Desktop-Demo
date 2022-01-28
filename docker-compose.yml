@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  rancherdesktopdemo:
+    image: ${DOCKER_REGISTRY-}rancherdesktopdemo
+    container_name: rancherdesktopdemo
+    build:
+      context: .
+      dockerfile: RancherDesktopDemo/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
